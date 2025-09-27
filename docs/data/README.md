@@ -1,25 +1,10 @@
 # Descripción de los datos
 
-## `data_01.csv`
+## `images`
+Imagenes Tarea 1
 
-| Columna 	|          Descripción         	|
-|:-------:	|:----------------------------:	|
-| col_01  	| Descripción de la columna 1. 	|
-| col_02  	| Descripción de la columna 2. 	|
-| col_03  	| Descripción de la columna 3. 	|
+## `suicide_rates.csv`
+data tarea 1
 
-## `data_02.csv`
-
-| Columna 	|          Descripción         	|
-|:-------:	|:----------------------------:	|
-| col_01  	| Descripción de la columna 1. 	|
-| col_02  	| Descripción de la columna 2. 	|
-| col_03  	| Descripción de la columna 3. 	|
-
-## `data_03.csv`
-
-| Columna 	|          Descripción         	|
-|:-------:	|:----------------------------:	|
-| col_01  	| Descripción de la columna 1. 	|
-| col_02  	| Descripción de la columna 2. 	|
-| col_03  	| Descripción de la columna 3. 	|
+## `world-happiness`
+data tarea 1
